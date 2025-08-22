@@ -1,15 +1,20 @@
-# Documentation Privée de Développement
+# Packages
 
-Bienvenue dans ce dépôt privé dédié à la documentation personnelle de mes projets de développement. Ici, vous trouverez diverses ressources et notes sur des API, des sites utiles pour le dev, la méthode de configuration de certains scripts, des exemples d’application de la méthode Merise, et bien d’autres choses à venir.
+Ce dépôt sert de répertoire polyvalent regroupant divers documents, scripts et ressources.  
+On y trouve des notes techniques, des supports de cours, des diagrammes et d'autres outils utiles pour différents projets et expérimentations.
 
----
+## Contenu
 
-## Introduction
+Le dépôt contient notamment :
+- Des notes et documentations techniques (réseau, développement, sécurité, bases de données…)
+- Des diagrammes UML et documents de conception
+- Des ressources liées à l'automatisation et la veille technologique
+- Divers outils et fichiers d'apprentissage
 
-Ce dépôt a pour but de centraliser mes ressources et mes connaissances en développement. Il s’agit d’un espace privé pour m’aider à organiser les informations et servir de référence pour mes futurs projets.  
-
----
+Il n’a pas vocation à être un projet unique mais plutôt un espace de centralisation et d’organisation.
 
 ## Utilisation
 
-Ce dépôt est strictement privé et destiné à un usage personnel. Toute modification ou mise à jour doit être suivie d’un commit détaillé pour garder une trace des évolutions.
+Clonez le dépôt pour consulter les documents :
+```bash
+git clone https://github.com/Marc-AntoineMarie/Packages.git
